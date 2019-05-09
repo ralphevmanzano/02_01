@@ -1,1 +1,4 @@
-Demonstrate various testing techniques
+#Tech used:
+-JUnit4
+-Mockito
+-Espresso
